@@ -2,6 +2,7 @@
 #IfWinActive ahk_exe bds.exe
 
 ;const
+EDITOR_CONTROL_NAME = TEditControl1
 SEARCH_EDITTEXT_APPEAR_DELAY = 0
 
 ~LButton & RButton::
